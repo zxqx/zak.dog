@@ -46,7 +46,7 @@
 		display: block;
 		padding: 1em;
 		font-weight: 400;
-		line-height: 38px;
+		line-height: 42px;
 		text-decoration: none;
 	}
 
@@ -59,6 +59,12 @@
 
 	.logo a {
 		text-decoration: none;
+	}
+
+	@media (min-width: 600px) {
+		nav a {
+			line-height: 38px;
+		}
 	}
 </style>
 
