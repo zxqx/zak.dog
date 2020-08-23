@@ -19,7 +19,7 @@
 		<div class="album-details">
 			<h3>Les Rallizes DéNudés</h3>
 			<h2>Cable Hogue Soundtrack
-				<span class="release-year">(1975)</span>
+				<span class="release-year">(rec. 1971-1979, bootlegged 2007)</span>
 			</h2>
 		</div>
 
@@ -52,6 +52,6 @@
 			</h2>
 		</div>
 
-		<p>This album is the perfect backdrop for a dingy dive bar: the air is punctuated with an unmistakable hint of stale beer and mildew, some crust punk is bumbling around polishing off people's empties, and the door has been ripped off the only bathroom stall you can shit in. Gallon Drunk wear their Birthday Party influence proudly on their sleeves, but manage to make their brand of noisy swamp blues sound convincingly surreal.</p>
+		<p>This album is the perfect backdrop for a dingy dive bar: the air is punctuated with an unmistakable hint of stale beer and mildew, some crust punk is bumbling around polishing off people's empties, and the door has been ripped off the only bathroom stall you can shit in. Gallon Drunk wears their Birthday Party influence proudly on their sleeve, but manages to make their brand of noisy swamp blues sound convincingly surreal.</p>
 	</div>
 </div>

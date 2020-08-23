@@ -19,6 +19,7 @@ h1 {
 h2 {
 	font-weight: 900;
 	font-style: italic;
+	text-align: center;
 }
 
 h4 {
@@ -101,6 +102,10 @@ code {
 }
 
 @media (min-width: 600px) {
+	h2 {
+		text-align: left;
+	}
+
 	h5 {
 		margin-top: 0.75em;
 		text-align: left;
