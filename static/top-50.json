@@ -1,0 +1,352 @@
+[
+  {
+    "artist": "Minutemen",
+    "title": "Double Nickels on the Dime",
+    "year": "1984",
+    "albumArtUrl": "https://img.discogs.com/HXWXYqG013Ykn4FWtV9MzQzIFxg=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7005064-1596293381-8696.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "The Pop Group",
+    "title": "Y",
+    "year": "1979",
+    "albumArtUrl": "https://img.discogs.com/XVOplqniFXWWapSVP04l7KJgi28=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4608483-1437576725-4783.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Pixies",
+    "title": "Doolittle",
+    "year": "1989",
+    "albumArtUrl": "https://img.discogs.com/eCx2HSayuxqAyLCUbvvyRjE3-2g=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2805906-1396136015-2237.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Death Grips",
+    "title": "The Money Store",
+    "year": "2015",
+    "albumArtUrl": "https://img.discogs.com/CxoU7jDw4nkrsqQycyLasVMieBg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6865101-1459291904-2589.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Can",
+    "title": "Tago Mago",
+    "year": "1971",
+    "albumArtUrl": "https://img.discogs.com/QxDl7B_-Sb4MeujpLc3P0epPLyg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-43343-1232146762.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Sonic Youth",
+    "title": "Confusion is Sex",
+    "year": "1983",
+    "albumArtUrl": "https://img.discogs.com/Kk8yzzS3eQFKEW9uTa1wxUnz03M=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1280745-1372132524-2338.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Brainiac",
+    "title": "Bonsai Superstar",
+    "year": "1994",
+    "albumArtUrl": "https://img.discogs.com/fPgYEnLEaAi5CNF-1OpwURvUeYI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2937214-1357183958-4823.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "My Bloody Valentine",
+    "title": "Loveless",
+    "year": "1991",
+    "albumArtUrl": "https://img.discogs.com/7zqkuhg_d5uL4pRxp5GhJeOVlnY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-79063-1182237706.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "The Flaming Lips",
+    "title": "The Soft Bulletin",
+    "year": "1999",
+    "albumArtUrl": "https://img.discogs.com/Usf7j3DQ1gJoiePKKNPVIl-s9eM=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1072266-1235331643.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Contortions",
+    "title": "Buy",
+    "year": "1979",
+    "albumArtUrl": "https://img.discogs.com/iQOuPGd9Kf1vBWH0HgqKcLPH_50=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6565355-1459537635-7891.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Boards of Canada",
+    "title": "Music Has the Right to Children",
+    "year": "1998",
+    "albumArtUrl": "https://img.discogs.com/_gE6zse46GW1Is-41OdAnsi1O4k=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1721-1232308612.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Portishead",
+    "title": "Dummy",
+    "year": "1994",
+    "albumArtUrl": "https://img.discogs.com/SeHq9Tl-XumXcvigIr_7ofnyzhw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10147986-1494518708-5054.png.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Broken Social Scene",
+    "title": "You Forgot It In People",
+    "year": "2002",
+    "albumArtUrl": "https://img.discogs.com/8qmXH0e8QT0nd45nXvwTzf14zXA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5126845-1389822957-8328.png.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Aphex Twin",
+    "title": "Richard D. James Album",
+    "year": "1996",
+    "albumArtUrl": "https://img.discogs.com/cDm9fmJWaiq5MaUzBRmVYT2xXeI=/fit-in/595x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3534-1195142046.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Flux Information Sciences",
+    "title": "Private/Public",
+    "year": "2001",
+    "albumArtUrl": "https://img.discogs.com/5pk7ZFyy1-uOghbw1oiW26MzE7U=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-853269-1587066090-3325.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Madvillain",
+    "title": "Madvillainy",
+    "year": "2004",
+    "albumArtUrl": "https://img.discogs.com/Rw6G_yczsO1xKqGzGH68Dt_x2vs=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1578923-1381248128-3673.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Can",
+    "title": "Ege bamyası",
+    "year": "1972",
+    "albumArtUrl": "https://img.discogs.com/qHNaeCC5WBNAjXSj3z960SWR_UU=/fit-in/600x569/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1292887-1207055912.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Boredoms",
+    "title": "Vision Creation Newsun",
+    "year": "1999",
+    "albumArtUrl": "https://img.discogs.com/l9uemVdNWW43XR3LwwkzPOOF3yw=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-261401-1306431126.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "The Stooges",
+    "title": "Fun House",
+    "year": "1970",
+    "albumArtUrl": "https://img.discogs.com/fwqy_sOhtuSm9ZKo3PmWIwFizUs=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1352562-1395069812-3469.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Swans",
+    "title": "To Be Kind",
+    "year": "2014",
+    "albumArtUrl": "https://img.discogs.com/cOcqx5xxohqD5INywki8T4Ygc-M=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5649159-1399990559-7559.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Pixies",
+    "title": "Surfer Rosa",
+    "year": "1988",
+    "albumArtUrl": "https://img.discogs.com/jBBEfQNnmFzg0VkYxI4zMw9r4jA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2109418-1303303277.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Outkast",
+    "title": "Aquemini",
+    "year": "1998",
+    "albumArtUrl": "https://img.discogs.com/kebR_RLZvSSXgwhKElsa7Dmto_U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6406135-1479918114-6823.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "This Heat",
+    "title": "Deceit",
+    "year": "1981",
+    "albumArtUrl": "https://img.discogs.com/5Amga0L_ATI0CfcZXvt5_arSFgk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383526-1504819936-3429.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Miles Davis",
+    "title": "Bitches Brew",
+    "year": "1970",
+    "albumArtUrl": "https://img.discogs.com/vVbyx-YQOa6SgqSV2hlYip5agtg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1872009-1249725468.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "The Clash",
+    "title": "London Calling",
+    "year": "1979",
+    "albumArtUrl": "https://img.discogs.com/4pksUxrO8KAnI8IOg1SbqxXAqdg=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378698-1407158809-2608.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Death Grips",
+    "title": "The Powers That B",
+    "year": "2015",
+    "albumArtUrl": "https://img.discogs.com/JSDm8X2uYHFzj1qcL3PS1Nv5Q0A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6817240-1427503687-4396.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Bob Dylan",
+    "title": "Highway 61 Revisited",
+    "year": "1965",
+    "albumArtUrl": "https://img.discogs.com/95HUYbMMjmVdMfwT76_fDWGi-3M=/fit-in/561x561/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698691-1317253020.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "NEU",
+    "title": "NEU! 2",
+    "year": "1973",
+    "albumArtUrl": "https://img.discogs.com/uXE1rb4vsnqkERFnGHjdsLvp9Jw=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-211384-1198005135.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Wire",
+    "title": "Chairs Missing",
+    "year": "1978",
+    "albumArtUrl": "https://img.discogs.com/kOskvy95RYFCoStBapSapEFCb9o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-660454-1381948834-5787.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "The Velvet Underground & Nico",
+    "title": "The Velvet Underground & Nico",
+    "year": "1967",
+    "albumArtUrl": "https://img.discogs.com/PaJz9xI0VmAltBM72HrOEJAZx44=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5034045-1454593768-8856.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Fuck Buttons",
+    "title": "Street Horrrsing",
+    "year": "2008",
+    "albumArtUrl": "https://img.discogs.com/YmD18fojiAMEXzi4sKyVsRfgyTM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5541502-1542855773-7467.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Talking Heads",
+    "title": "Remain in Light",
+    "year": "1980",
+    "albumArtUrl": "https://img.discogs.com/fCm-yktYLRrBHkkxsXYqpNV1A08=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1211670-1272393561.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "The Residents",
+    "title": "Meet the Residents",
+    "year": "1974",
+    "albumArtUrl": "https://img.discogs.com/QktKUHPColJtfquM7l6VV_37_H4=/fit-in/579x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1189587-1211309867.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Boards of Canada",
+    "title": "Geogaddi",
+    "year": "2002",
+    "albumArtUrl": "https://img.discogs.com/Kdd6zSKyODJCILdLW1T9FCqeGg4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4985843-1382039944-2660.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Danny Brown",
+    "title": "Atrocity Exhibition",
+    "year": "2016",
+    "albumArtUrl": "https://img.discogs.com/0eZ5-pHHp4MKg_R9H7n3NyZBRcc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9117670-1505947930-4788.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Pavement",
+    "title": "Crooked Rain, Crooked Rain",
+    "year": "1994",
+    "albumArtUrl": "https://img.discogs.com/zZBorf9CADH8AVqdFBPs_dfvkOg=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379401-1248294358.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Freddie Gibbs & Madlib",
+    "title": "Piñata",
+    "year": "2014",
+    "albumArtUrl": "https://img.discogs.com/9jLnkq-AM-WCILg5MlfAoQT5TNE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5528785-1395705281-8793.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Tuxedomoon",
+    "title": "Desire",
+    "year": "1981",
+    "albumArtUrl": "https://img.discogs.com/VC0vfkX6DzlIyZ6DJDd26p8cumg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-946038-1464721772-7664.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Can",
+    "title": "Future Days",
+    "year": "1973",
+    "albumArtUrl": "https://img.discogs.com/7dqNteuLKp33r9F4VbWOap1dIaQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5866187-1449569617-1852.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Mr. Bungle",
+    "title": "California",
+    "year": "1999",
+    "albumArtUrl": "https://img.discogs.com/2XKpVRphRxpPhvsbp4PWNZVYePw=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7909888-1515348837-4553.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Swell Maps",
+    "title": "...In \"Jane From Occupied Europe\"",
+    "year": "1980",
+    "albumArtUrl": "https://img.discogs.com/uI-nj6_G4VIPltBGJtdBWDnftd8=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-450777-1480590469-9998.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Captain Beefheart & His Magic Band",
+    "title": "Trout Mask Replica",
+    "year": "1969",
+    "albumArtUrl": "https://img.discogs.com/9RI8pHv0rJ34w8ajfwmub_QDCDA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5989343-1524659370-3864.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Swans",
+    "title": "Soundtracks for the Blind",
+    "year": "1996",
+    "albumArtUrl": "https://img.discogs.com/Wa3z1RuGf294BQo2W5LxUM1Nb_0=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-886352-1214386663.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Sonic Youth",
+    "title": "EVOL",
+    "year": "1986",
+    "albumArtUrl": "https://img.discogs.com/roC1UPXMGfaYu9Onv4Pk6_X0pU4=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-843885-1349546629-2356.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Six Finger Satellite",
+    "title": "Severe Exposure",
+    "year": "1995",
+    "albumArtUrl": "https://img.discogs.com/SVZi2V_PxZGMwcjGI3w1u4FwT04=/fit-in/444x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-828227-1349313686-6358.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Elvis Costello",
+    "title": "This Year's Model",
+    "year": "1978",
+    "albumArtUrl": "https://img.discogs.com/LWpl_mZTReOHeosm4IkEMtEJ43o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5689128-1399989379-9331.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Butthole Surfers",
+    "title": "Locust Abortion Technician",
+    "year": "1987",
+    "albumArtUrl": "https://img.discogs.com/Na7Okcwq1XHpd8IDyI65btFiytU=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1198927-1200160252.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Sun City Girls",
+    "title": "330,003 Crossdressers From Beyond the Rig Veda",
+    "year": "1996",
+    "albumArtUrl": "https://img.discogs.com/GcVhkiwKUhRMWLBR8CHNo0TgEmY=/fit-in/499x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1049734-1252776612.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "The Residents",
+    "title": "Not Available",
+    "year": "1978",
+    "albumArtUrl": "https://img.discogs.com/faks7VT9jHzMyvWXCbAj5zgAx8Q=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2663944-1516038745-4941.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus. Pellentesque ultricies, ipsum ac tincidunt pretium, est nisi vehicula libero, a imperdiet augue turpis vehicula nunc. Nullam ut nulla quis nisi fermentum vulputate."
+  },
+  {
+    "artist": "Coil",
+    "title": "Horse Rotorvator",
+    "year": "1986",
+    "albumArtUrl": "https://img.discogs.com/k8nS2inarj-qarrirEG1JELZp2U=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-325270-1176223441.jpeg.jpg",
+    "writeup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante diam, scelerisque id ultricies eu, dignissim sit amet libero. Proin at mi vitae enim euismod hendrerit feugiat a arcu. Donec rhoncus ex sit amet nisl tempus dapibus."
+  }
+]
