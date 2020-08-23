@@ -30,7 +30,7 @@
 			</h2>
 		</div>
 
-		<p>ESG enters the scene with a bang on their debut release, showcasing their unique blend of infectious vocal lines and a groovy-as-hell rhythmic section. The Scroggins sisters take a minimalist approach to dance punk, and each instrument feels supremely significant. In fact, labeling it "dance punk" is doing a disservice to the songs on this album. <i>Come Away With ESG</i> absolutely demands dancing, yet at the same time makes all other dance music sound corny in comparison.</p>
+		<p>ESG enters the scene with a bang on their debut release, showcasing their unique blend of infectious vocal lines and a groovy-as-hell rhythmic section. The Scroggins sisters take a minimalist approach to dance punk, and each instrument feels supremely significant. In fact, labeling it "dance punk" is doing a disservice to the songs on this album. <i>Come Away With ESG</i> absolutely demands dancing, and at the same time makes all other dance music sound corny in comparison.</p>
 	</div>
 </div>
 
