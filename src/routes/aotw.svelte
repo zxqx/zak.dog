@@ -1,11 +1,3 @@
-<script>
-	(async() => {
-		if (process.browser) {
-
-		}
-	})();
-</script>
-
 <svelte:head>
 	<title>Albums of the Week</title>
 </svelte:head>
