@@ -5,7 +5,7 @@
 <h5>August 23, 2020</h5>
 
 <div class="album">
-	<img src="https://img.discogs.com/pd3Qp3GnXdddIXBXx9oiEsm_AwA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1158596-1447689210-8255.jpeg.jpg" alt="Les Rallizes DéNudés - Cable Hogue Soundtrack" class="album-art" />
+	<img src="./images/album-art/cable-hogue-soundtrack.jpg" alt="Les Rallizes DéNudés - Cable Hogue Soundtrack" class="album-art" />
 
 	<div class="album-info">
 		<div class="album-details">
@@ -20,7 +20,7 @@
 </div>
 
 <div class="album">
-	<img src="https://img.discogs.com/SgvruQKw4ypiIMrFPPmcur2gUNE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-64618-1512279994-5167.jpeg.jpg" alt="ESG - Come Away With ESG" class="album-art" />
+	<img src="./images/album-art/come-away-with-esg.jpg" alt="ESG - Come Away With ESG" class="album-art" />
 
 	<div class="album-info">
 		<div class="album-details">
@@ -35,7 +35,7 @@
 </div>
 
 <div class="album">
-	<img src="https://img.discogs.com/Fv7jgDGSVsINswJ7agCUhhE0EiQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1966527-1539339954-7871.jpeg.jpg" alt="Gallon Drunk - You, The Night... and The Music" class="album-art" />
+	<img src="./images/album-art/you-the-night-and-the-music.jpg" alt="Gallon Drunk - You, The Night... and The Music" class="album-art" />
 	<div class="album-info">
 		<div class="album-details">
 			<h3>Gallon Drunk</h3>
