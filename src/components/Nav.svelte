@@ -71,7 +71,7 @@
 
 	<nav>
 		<ul>
-			<li><a aria-current="{segment === 'aotw' ? 'page' : undefined}" href="aotw">albums of the week</a></li>
+			<li><a aria-current="{segment === 'aotw' ? 'page' : undefined}" href="aotw/">albums of the week</a></li>
 		</ul>
 	</nav>
 </header>

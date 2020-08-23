@@ -53,6 +53,10 @@ ol {
 	border-bottom: 1px solid #ddd;
 }
 
+.album:last-child {
+	border-bottom: none;
+}
+
 .album-info {
 	display: flex;
 	flex-direction: row;
