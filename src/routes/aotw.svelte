@@ -52,6 +52,6 @@
 			</h2>
 		</div>
 
-		<p>The perfect backdrop for an unruly Tuesday night at the dingy dive bar: the air is punctuated by an unmistakable hint of stale beer and mildew, some crust punk is bumbling around polishing off people's empties, and the door has been ripped off the only bathroom stall you can shit in. Gallon Drunk wears their Birthday Party influence proudly on their sleeve, and manages to make their brand of noisy swamp blues sound convincingly surreal.</p>
+		<p>The perfect backdrop for an unruly Tuesday night at the dingy dive bar: the air is punctuated by an unmistakable hint of stale beer and mildew, some crust punk is bumbling around polishing off people's empties, and the door has been ripped off the only bathroom stall you can shit in. Gallon Drunk wears their Birthday Party influence proudly on their sleeve, but manages to make their brand of noisy swamp blues sound convincingly surreal.</p>
 	</div>
 </div>
