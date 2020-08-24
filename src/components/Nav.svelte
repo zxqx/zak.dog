@@ -61,6 +61,12 @@
     text-decoration: none;
   }
 
+  .logo img {
+    position: relative;
+    top: 6px;
+    width: 95px;
+  }
+
   @media (min-width: 600px) {
     nav a {
       line-height: 38px;
@@ -70,6 +76,8 @@
 
 <header>
   <div class="logo">
-    <a href="/">zak.dog</a>
+    <a href="/">
+      <img src="./images/zak.dog-logo.png" alt="zak.dog" />
+    </a>
   </div>
 </header>
