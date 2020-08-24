@@ -29,7 +29,7 @@ h4 {
 }
 
 h5 {
-	margin: 0 0 1em;
+	margin: 0.25em 0 1em;
 	font-size: 18px;
 	line-height: 26px;
 	font-weight: 700;
@@ -111,7 +111,7 @@ code {
 	}
 
 	h5 {
-		margin-top: 0.75em;
+		margin-top: 0.5em;
 		text-align: left;
 	}
 
