@@ -15,7 +15,7 @@
       <h3>Les Rallizes DéNudés</h3>
       <h2>
         Cable Hogue Soundtrack
-        <span class="release-year">(rec. 1971-1979, bootlegged 2007)</span>
+        <span class="release-year">(recorded 1971-1979, bootlegged 2007)</span>
       </h2>
     </div>
 
