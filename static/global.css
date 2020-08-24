@@ -22,9 +22,15 @@ h1 {
 }
 
 h2 {
+  margin-bottom: 0;
+  font-size: 2.5em;
   font-weight: 900;
   font-style: italic;
   text-align: center;
+}
+
+h3 {
+  font-size: 1.6em;
 }
 
 h4 {
@@ -83,9 +89,10 @@ ol {
 }
 
 .release-year {
-  display: inline-block;
+  display: block;
+  margin-top: 0.5em;
   margin-left: 0.2em;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   font-style: normal;
   color: #777;
@@ -93,6 +100,7 @@ ol {
 
 .album p {
   margin-bottom: 0;
+  font-size: 18px;
 }
 
 code {
@@ -112,7 +120,13 @@ code {
 
 @media (min-width: 600px) {
   h2 {
+    margin-bottom: 0.5em;
     text-align: left;
+    font-size: 1.5em;
+  }
+
+  h3 {
+    font-size: 1.17em;
   }
 
   h5 {
@@ -124,6 +138,10 @@ code {
     flex-direction: row;
   }
 
+  .album p {
+    font-size: inherit;
+  }
+
   .album-info {
     padding-left: 2em;
     flex-direction: column;
@@ -132,6 +150,12 @@ code {
   .album-details {
     justify-content: start;
     align-items: start;
+  }
+
+  .release-year {
+    display: inline-block;
+    margin-top: 0;
+    font-size: 16px;
   }
 
   .album-art {
