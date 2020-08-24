@@ -26,7 +26,7 @@
       may take a few listens to break through the thick walls of meandering
       guitar noise, hypnotic bass lines, and psychedelic lofi production &mdash;
       which often teeters on the edge of unhinged &mdash; but it's ultimately
-      more than worth it.
+      worth it.
     </p>
   </div>
 </div>
