@@ -1,5 +1,5 @@
 <svelte:head>
-  <title>Albums of the Week</title>
+  <title>Albums of the Week / zak.dog</title>
 </svelte:head>
 
 <h5>August 23, 2020</h5>
