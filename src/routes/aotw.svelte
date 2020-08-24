@@ -21,12 +21,12 @@
 
     <p>
       Formed in Japan in the late 60s, Les Rallizes DéNudés hadn't actually
-      heard any rock music before, but were basing their sound on what they
-      thought it would sound like after reading descriptions of the work of
-      American artists like Hendrix and Zeppelin. It may take a few listens to
-      break through the thick walls of meandering guitar noise, hypnotic bass
-      lines, and psychedelic lofi production &mdash; which often teeters on the
-      edge of unhinged &mdash; but it's ultimately more than worth it.
+      heard any rock music before, but were basing their sound on descriptions
+      they read of the work of American artists like Hendrix and Zeppelin. It
+      may take a few listens to break through the thick walls of meandering
+      guitar noise, hypnotic bass lines, and psychedelic lofi production &mdash;
+      which often teeters on the edge of unhinged &mdash; but it's ultimately
+      more than worth it.
     </p>
   </div>
 </div>
