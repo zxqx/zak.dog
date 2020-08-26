@@ -172,32 +172,6 @@
     </div>
 
     <div class="stream">
-      <h3>Southeast TX Beach</h3>
-      <div class="embed-container">
-        <iframe
-          title="Southeast TX Beach"
-          type="text/html"
-          src="https://www.youtube.com/embed/1pq1vCA78ag?autoplay=1&mute=1"
-          frameborder="0"
-          allow="autoplay"
-          allowfullscreen="1" />
-      </div>
-    </div>
-
-    <div class="stream">
-      <h3>Lake Charles</h3>
-      <div class="embed-container">
-        <iframe
-          title="Lake Charles"
-          type="text/html"
-          src="https://www.youtube.com/embed/Iwa3-LOKR7c?autoplay=1&mute=1"
-          frameborder="0"
-          allow="autoplay"
-          allowfullscreen="1" />
-      </div>
-    </div>
-
-    <div class="stream">
       <h3>New Orleans</h3>
       <div class="embed-container">
         <iframe
