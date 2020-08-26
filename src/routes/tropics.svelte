@@ -11,6 +11,7 @@
 <style>
   .page {
     margin-top: -0.5em;
+    padding-bottom: 1em;
     display: flex;
     flex-direction: column;
   }
@@ -37,7 +38,7 @@
     padding-bottom: 56.25%;
     height: 0;
     overflow: hidden;
-    max-width: 100%;
+    max-width: calc(100% - 1em);
   }
 
   .embed-container iframe,
@@ -76,11 +77,13 @@
   .tropical-twitter {
     margin: 1em 0 0 0;
     width: 100%;
+    height: 800px;
     border: 1px solid rgba(15, 70, 100, 0.12);
+    overflow: auto;
   }
 
   .tropical-reddit {
-    margin: 1em 0 0 0;
+    margin: 16px 0 0 0;
     width: 100%;
     min-height: 1000px;
     font-size: 14px;
@@ -105,11 +108,14 @@
     .tropical-twitter {
       margin: 1em 1em 0 0;
       width: 22%;
+      height: 1424px;
     }
 
     .tropical-reddit {
-      margin: 1em 0 0 0;
+      margin: 16px 0 0 0;
       width: 18%;
+      height: 1424px;
+      border: 1px solid rgba(15, 70, 100, 0.12);
     }
 
     .streams {
