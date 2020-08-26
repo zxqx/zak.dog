@@ -1,7 +1,6 @@
 <script>
   if (process.browser) {
     const refreshTropicalTwitter = () => {
-      console.log('test');
       document.querySelector('.tropical-reddit').src = './tropical-reddit.html';
     };
 
@@ -98,6 +97,10 @@
       flex-direction: row;
     }
 
+    h3 {
+      text-align: left;
+    }
+
     .tropical-twitter {
       margin: 1em 1em 0 0;
       width: 22%;
@@ -153,18 +156,6 @@
     </div>
 
     <div class="stream">
-      <h3>Galveston Bay</h3>
-      <div class="embed-container">
-        <iframe
-          title="Galveston Bay"
-          type="text/html"
-          src="https://www.youtube.com/embed/P1tkPY9_mIQ"
-          frameborder="0"
-          allowfullscreen="1" />
-      </div>
-    </div>
-
-    <div class="stream">
       <h3>Galveston Beach</h3>
       <div class="embed-container">
         <iframe
@@ -207,6 +198,18 @@
           title="New Orleans"
           type="text/html"
           src="https://www.youtube.com/embed/2k4zpeUd_gI"
+          frameborder="0"
+          allowfullscreen="1" />
+      </div>
+    </div>
+
+    <div class="stream">
+      <h3>Houston</h3>
+      <div class="embed-container">
+        <iframe
+          title="Houston"
+          type="text/html"
+          src="https://www.youtube.com/embed/ZuoL3P2dgmg"
           frameborder="0"
           allowfullscreen="1" />
       </div>
