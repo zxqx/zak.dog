@@ -165,7 +165,20 @@
     </div>
 
     <div class="stream">
-      <h3>Galveston Beach</h3>
+      <h3>Kemah, TX</h3>
+      <div class="embed-container">
+        <iframe
+          title="Kemah"
+          type="text/html"
+          src="https://www.youtube.com/embed/5PZiMsVWvM0?autoplay=1&mute=1"
+          frameborder="0"
+          allow="autoplay"
+          allowfullscreen="1" />
+      </div>
+    </div>
+
+    <div class="stream">
+      <h3>Galveston Beach, TX</h3>
       <div class="embed-container">
         <iframe
           title="Galveston Beach"
@@ -178,7 +191,19 @@
     </div>
 
     <div class="stream">
-      <h3>New Orleans</h3>
+      <h3>Arnaudville, LA</h3>
+      <div class="embed-container">
+        <iframe
+          src="https://player.twitch.tv/?channel=not_a_bot100&parent=zak.dog&parent=localhost"
+          height="500"
+          width="281"
+          frameborder="0"
+          allowfullscreen="1" />
+      </div>
+    </div>
+
+    <div class="stream">
+      <h3>New Orleans, LA</h3>
       <div class="embed-container">
         <iframe
           title="New Orleans"
@@ -191,7 +216,7 @@
     </div>
 
     <div class="stream">
-      <h3>Houston</h3>
+      <h3>Houston, TX</h3>
       <div class="embed-container">
         <iframe
           title="Houston"
