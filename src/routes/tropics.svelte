@@ -76,6 +76,7 @@
   .tropical-twitter {
     margin: 1em 0 0 0;
     width: 100%;
+    border: 1px solid rgba(15, 70, 100, 0.12);
   }
 
   .tropical-reddit {
@@ -246,7 +247,6 @@
     <a
       class="twitter-timeline"
       href="https://twitter.com/wx_becks/lists/tropical-twitter?ref_src=twsrc%5Etfw" />
-
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
 
     </script>
