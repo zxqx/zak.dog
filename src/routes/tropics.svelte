@@ -216,19 +216,6 @@
     </div>
 
     <div class="stream">
-      <h3>New Orleans, LA</h3>
-      <div class="embed-container">
-        <iframe
-          title="New Orleans, LA"
-          type="text/html"
-          src="https://www.youtube.com/embed/2k4zpeUd_gI?autoplay=1&mute=1"
-          frameborder="0"
-          allow="autoplay"
-          allowfullscreen="1" />
-      </div>
-    </div>
-
-    <div class="stream">
       <h3>Houston, TX</h3>
       <div class="embed-container">
         <iframe
@@ -251,6 +238,13 @@
           frameborder="0"
           allow="autoplay"
           allowfullscreen="1" />
+      </div>
+    </div>
+
+    <div class="stream">
+      <h3>Agenda Free TV</h3>
+      <div class="offline-container">
+        <span class="offline">(currently offline)</span>
       </div>
     </div>
 
