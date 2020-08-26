@@ -138,8 +138,9 @@
         <iframe
           title="Weather Channel"
           type="text/html"
-          src="https://www.youtube.com/embed/beG4qzG6bFM"
+          src="https://www.youtube.com/embed/beG4qzG6bFM?autoplay=1&mute=1"
           frameborder="0"
+          allow="autoplay"
           allowfullscreen="1" />
       </div>
     </div>
@@ -150,8 +151,9 @@
         <iframe
           title="Coastal Webcams"
           type="text/html"
-          src="https://www.youtube.com/embed/NPUC0vjYja0"
+          src="https://www.youtube.com/embed/NPUC0vjYja0?autoplay=1&mute=1"
           frameborder="0"
+          allow="autoplay"
           allowfullscreen="1" />
       </div>
     </div>
@@ -162,8 +164,9 @@
         <iframe
           title="Galveston Beach"
           type="text/html"
-          src="https://www.youtube.com/embed/GEZy1rcNQWE"
+          src="https://www.youtube.com/embed/GEZy1rcNQWE?autoplay=1&mute=1"
           frameborder="0"
+          allow="autoplay"
           allowfullscreen="1" />
       </div>
     </div>
@@ -174,8 +177,9 @@
         <iframe
           title="Southeast TX Beach"
           type="text/html"
-          src="https://www.youtube.com/embed/1pq1vCA78ag"
+          src="https://www.youtube.com/embed/1pq1vCA78ag?autoplay=1&mute=1"
           frameborder="0"
+          allow="autoplay"
           allowfullscreen="1" />
       </div>
     </div>
@@ -186,8 +190,9 @@
         <iframe
           title="Lake Charles"
           type="text/html"
-          src="https://www.youtube.com/embed/Iwa3-LOKR7c"
+          src="https://www.youtube.com/embed/Iwa3-LOKR7c?autoplay=1&mute=1"
           frameborder="0"
+          allow="autoplay"
           allowfullscreen="1" />
       </div>
     </div>
@@ -198,8 +203,9 @@
         <iframe
           title="New Orleans"
           type="text/html"
-          src="https://www.youtube.com/embed/2k4zpeUd_gI"
+          src="https://www.youtube.com/embed/2k4zpeUd_gI?autoplay=1&mute=1"
           frameborder="0"
+          allow="autoplay"
           allowfullscreen="1" />
       </div>
     </div>
@@ -210,8 +216,9 @@
         <iframe
           title="Houston"
           type="text/html"
-          src="https://www.youtube.com/embed/ZuoL3P2dgmg"
+          src="https://www.youtube.com/embed/ZuoL3P2dgmg?autoplay=1&mute=1"
           frameborder="0"
+          allow="autoplay"
           allowfullscreen="1" />
       </div>
     </div>
@@ -222,8 +229,9 @@
         <iframe
           title="Space Videos"
           type="text/html"
-          src="https://www.youtube.com/embed/2llqoT9qkkY"
+          src="https://www.youtube.com/embed/2llqoT9qkkY?autoplay=1&mute=1"
           frameborder="0"
+          allow="autoplay"
           allowfullscreen="1" />
       </div>
     </div>
