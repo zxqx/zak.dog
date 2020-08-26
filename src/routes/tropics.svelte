@@ -132,12 +132,12 @@
   <div class="streams">
 
     <div class="stream">
-      <h3>Force Thirteen</h3>
+      <h3>Weather Channel</h3>
       <div class="embed-container">
         <iframe
-          title="Force Thirteen"
+          title="Weather Channel"
           type="text/html"
-          src="https://www.youtube.com/embed/IJTfMtzpanQ"
+          src="https://www.youtube.com/embed/beG4qzG6bFM"
           frameborder="0"
           allowfullscreen="1" />
       </div>
