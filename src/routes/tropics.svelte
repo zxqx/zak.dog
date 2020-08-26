@@ -139,12 +139,12 @@
   <div class="streams">
 
     <div class="stream">
-      <h3>Weather Channel</h3>
+      <h3>South LA</h3>
       <div class="embed-container">
         <iframe
-          title="Weather Channel"
+          title="South LA"
           type="text/html"
-          src="https://www.youtube.com/embed/beG4qzG6bFM?autoplay=1&mute=1"
+          src="https://www.youtube.com/embed/KP1Ee4F7q-o?autoplay=1&mute=1"
           frameborder="0"
           allow="autoplay"
           allowfullscreen="1" />
