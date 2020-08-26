@@ -168,9 +168,22 @@
       <h3>Kemah, TX</h3>
       <div class="embed-container">
         <iframe
-          title="Kemah"
+          title="Kemah, TX"
           type="text/html"
           src="https://www.youtube.com/embed/5PZiMsVWvM0?autoplay=1&mute=1"
+          frameborder="0"
+          allow="autoplay"
+          allowfullscreen="1" />
+      </div>
+    </div>
+
+    <div class="stream">
+      <h3>Lake Charles, LA</h3>
+      <div class="embed-container">
+        <iframe
+          title="Lake Charles, LA"
+          type="text/html"
+          src="https://www.youtube.com/embed/IeKorEY3e5A?autoplay=1&mute=1"
           frameborder="0"
           allow="autoplay"
           allowfullscreen="1" />
@@ -181,7 +194,7 @@
       <h3>Galveston Beach, TX</h3>
       <div class="embed-container">
         <iframe
-          title="Galveston Beach"
+          title="Galveston Beach, TX"
           type="text/html"
           src="https://www.youtube.com/embed/GEZy1rcNQWE?autoplay=1&mute=1"
           frameborder="0"
@@ -206,7 +219,7 @@
       <h3>New Orleans, LA</h3>
       <div class="embed-container">
         <iframe
-          title="New Orleans"
+          title="New Orleans, LA"
           type="text/html"
           src="https://www.youtube.com/embed/2k4zpeUd_gI?autoplay=1&mute=1"
           frameborder="0"
@@ -238,13 +251,6 @@
           frameborder="0"
           allow="autoplay"
           allowfullscreen="1" />
-      </div>
-    </div>
-
-    <div class="stream">
-      <h3>Agenda Free TV</h3>
-      <div class="offline-container">
-        <span class="offline">(currently offline)</span>
       </div>
     </div>
 
