@@ -204,7 +204,7 @@
     </div>
 
     <div class="stream">
-      <h3>Arnaudville, LA</h3>
+      <h3>Lafayette, LA</h3>
       <div class="embed-container">
         <iframe
           src="https://player.twitch.tv/?channel=not_a_bot100&parent=zak.dog&parent=localhost"
