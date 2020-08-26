@@ -165,7 +165,7 @@ code {
   .album-art {
     margin-bottom: 0;
     width: 150px;
-    max-height: 150px;
+    height: 150px;
     display: block;
     align-self: start;
   }
@@ -178,13 +178,13 @@ code {
 
   .album-art {
     width: 200px;
-    max-height: 200px;
+    height: 200px;
   }
 }
 
 @media (min-width: 960px) {
   .album-art {
     width: 250px;
-    max-height: 250px;
+    height: 250px;
   }
 }
