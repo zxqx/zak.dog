@@ -108,13 +108,13 @@
     .tropical-twitter {
       margin: 1em 1em 0 0;
       width: 22%;
-      height: 1424px;
+      height: 1423px;
     }
 
     .tropical-reddit {
       margin: 16px 0 0 0;
       width: 18%;
-      height: 1424px;
+      height: 1423px;
       border: 1px solid rgba(15, 70, 100, 0.12);
     }
 
