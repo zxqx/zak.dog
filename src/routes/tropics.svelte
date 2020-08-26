@@ -122,7 +122,7 @@
 </style>
 
 <svelte:head>
-  <title>Hurricane Laura / zak.dog</title>
+  <title>Storm Mode / zak.dog</title>
 </svelte:head>
 
 <div class="page">
