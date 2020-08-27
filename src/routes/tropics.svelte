@@ -264,7 +264,20 @@
       </div>
     </div> -->
 
-    <!-- <div class="stream">
+    <div class="stream">
+      <h3>New Orleans, LA</h3>
+      <div class="embed-container">
+        <iframe
+          title="New Orleans, LA"
+          type="text/html"
+          src="https://www.youtube.com/embed/W0WsQ6HSOAA?autoplay=1&mute=1"
+          frameborder="0"
+          allow="autoplay"
+          allowfullscreen="1" />
+      </div>
+    </div>
+
+    <div class="stream">
       <h3>Houston, TX</h3>
       <div class="embed-container">
         <iframe
@@ -275,7 +288,7 @@
           allow="autoplay"
           allowfullscreen="1" />
       </div>
-    </div> -->
+    </div>
   </div>
 
   <div class="tropical-twitter">
