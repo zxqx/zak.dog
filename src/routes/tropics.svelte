@@ -224,7 +224,7 @@
       </div>
     </div>
 
-    <div class="stream">
+    <!-- <div class="stream">
       <h3>Lafayette, LA</h3>
       <div class="embed-container">
         <iframe
@@ -232,7 +232,7 @@
           frameborder="0"
           allowfullscreen="1" />
       </div>
-    </div>
+    </div> -->
 
     <div class="stream">
       <h3>Kemah, TX</h3>
@@ -299,7 +299,7 @@
       </div>
     </div> -->
 
-    <!-- <div class="stream">
+    <div class="stream">
       <h3>New Orleans, LA</h3>
       <div class="embed-container">
         <iframe
@@ -310,7 +310,7 @@
           allow="autoplay"
           allowfullscreen="1" />
       </div>
-    </div> -->
+    </div>
 
     <!-- <div class="stream">
       <h3>Houston, TX</h3>
