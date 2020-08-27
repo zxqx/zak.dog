@@ -219,6 +219,16 @@
     </div>
 
     <div class="stream">
+      <h3>Lafayette, LA</h3>
+      <div class="embed-container">
+        <iframe
+          src="https://player.twitch.tv/?channel=not_a_bot100&parent=zak.dog&parent=localhost"
+          frameborder="0"
+          allowfullscreen="1" />
+      </div>
+    </div>
+
+    <div class="stream">
       <h3>Kemah, TX</h3>
       <div class="embed-container">
         <iframe
@@ -250,16 +260,6 @@
           src="https://www.youtube.com/embed/GEZy1rcNQWE?autoplay=1&mute=1"
           frameborder="0"
           allow="autoplay"
-          allowfullscreen="1" />
-      </div>
-    </div>
-
-    <div class="stream">
-      <h3>Lafayette, LA</h3>
-      <div class="embed-container">
-        <iframe
-          src="https://player.twitch.tv/?channel=not_a_bot100&parent=zak.dog&parent=localhost"
-          frameborder="0"
           allowfullscreen="1" />
       </div>
     </div>
