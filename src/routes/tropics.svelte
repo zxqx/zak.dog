@@ -164,7 +164,7 @@
 
     <div class="stream">
       <h3>Lake Charles, LA (Reed Timmer)</h3>
-      <div class="embed-container">
+      <!-- <div class="embed-container">
         <div
           class="fb-video"
           data-href="https://www.facebook.com/reedtimmer2.0/videos/632628751019915/"
@@ -174,6 +174,10 @@
             cite="https://developers.facebook.com/reedtimmer2.0/videos/632628751019915/"
             class="fb-xfbml-parse-ignore" />
         </div>
+      </div> -->
+
+      <div class="offline-container">
+        <span class="offline">(currently offline)</span>
       </div>
     </div>
 
@@ -243,7 +247,7 @@
       </div>
     </div>
 
-    <div class="stream">
+    <!-- <div class="stream">
       <h3>Coastal TX/LA</h3>
       <div class="embed-container">
         <iframe
@@ -254,7 +258,7 @@
           allow="autoplay"
           allowfullscreen="1" />
       </div>
-    </div>
+    </div> -->
 
     <!-- <div class="stream">
       <h3>Lake Charles, LA</h3>
@@ -295,7 +299,7 @@
       </div>
     </div> -->
 
-    <!-- <div class="stream">
+    <div class="stream">
       <h3>New Orleans, LA</h3>
       <div class="embed-container">
         <iframe
@@ -306,7 +310,7 @@
           allow="autoplay"
           allowfullscreen="1" />
       </div>
-    </div> -->
+    </div>
 
     <!-- <div class="stream">
       <h3>Houston, TX</h3>
