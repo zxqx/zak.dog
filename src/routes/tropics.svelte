@@ -38,7 +38,7 @@
     padding-bottom: 56.25%;
     height: 0;
     overflow: hidden;
-    max-width: 100%;
+    max-width: calc(100% - 1em);
   }
 
   .embed-container iframe,
@@ -58,7 +58,7 @@
   .offline-container {
     position: relative;
     display: flex;
-    width: 100%;
+    max-width: calc(100% - 1em);
     padding-bottom: 56.25%;
     background: #eee;
     justify-content: center;
@@ -127,6 +127,12 @@
     .stream {
       margin: 1em 1em 1em 0;
       flex: 1 0 calc(50% - 1em);
+    }
+
+    .embed-container,
+    .offline-container {
+      max-width: 100%;
+      width: 100%;
     }
   }
 </style>
