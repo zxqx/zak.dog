@@ -254,7 +254,7 @@
       </div>
     </div>
 
-    <!-- <div class="stream">
+    <div class="stream">
       <h3>Lafayette, LA</h3>
       <div class="embed-container">
         <iframe
@@ -262,7 +262,7 @@
           frameborder="0"
           allowfullscreen="1" />
       </div>
-    </div> -->
+    </div>
 
     <!-- <div class="stream">
       <h3>New Orleans, LA</h3>
@@ -309,9 +309,9 @@
       </div>
     </div>
 
-    <div class="stream">
-      <h3>Lake Charles, LA (Jeff Piotrowski)</h3>
-      <!-- <div class="embed-container">
+    <!-- <div class="stream">
+      <h3>Lake Charles, LA (Jeff Piotrowski)</h3> -->
+    <!-- <div class="embed-container">
         <iframe
           title="Lake Charles, LA"
           type="text/html"
@@ -320,10 +320,10 @@
           allow="autoplay"
           allowfullscreen="1" />
       </div> -->
-      <div class="offline-container">
+    <!-- <div class="offline-container">
         <span class="offline">(currently offline)</span>
       </div>
-    </div>
+    </div> -->
   </div>
 
   <div class="tropical-twitter">
