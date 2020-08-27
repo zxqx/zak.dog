@@ -181,7 +181,7 @@
       </div>
     </div> -->
 
-    <div class="stream">
+    <!-- <div class="stream">
       <h3>Lake Charles, LA (svrweather)</h3>
       <div class="embed-container">
         <iframe
@@ -191,12 +191,12 @@
           frameborder="0"
           allow="autoplay"
           allowfullscreen="1" />
-      </div>
+      </div> -->
 
-      <!-- <div class="offline-container">
+    <!-- <div class="offline-container">
         <span class="offline">(currently offline)</span>
       </div> -->
-    </div>
+    <!-- </div> -->
 
     <div class="stream">
       <h3>LA Field Mission</h3>
@@ -299,7 +299,7 @@
       </div>
     </div> -->
 
-    <div class="stream">
+    <!-- <div class="stream">
       <h3>New Orleans, LA</h3>
       <div class="embed-container">
         <iframe
@@ -310,7 +310,7 @@
           allow="autoplay"
           allowfullscreen="1" />
       </div>
-    </div>
+    </div> -->
 
     <!-- <div class="stream">
       <h3>Houston, TX</h3>
