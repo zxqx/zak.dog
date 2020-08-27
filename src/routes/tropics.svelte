@@ -58,7 +58,7 @@
   .offline-container {
     position: relative;
     display: flex;
-    max-width: calc(100% - 1em);
+    max-width: 100%;
     padding-bottom: 56.25%;
     background: #eee;
     justify-content: center;
@@ -122,7 +122,8 @@
       width: 60%;
     }
 
-    .embed-container {
+    .embed-container,
+    .offline-container {
       max-width: calc(100% - 1em);
     }
   }
