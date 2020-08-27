@@ -152,20 +152,16 @@
     </div> -->
 
     <div class="stream">
-      <h3>Lake Charles, LA (svrweather)</h3>
+      <h3>The Weather Channel</h3>
       <div class="embed-container">
         <iframe
-          title="Lake Charles, LA (svrweather)"
+          title="The Weather Channel"
           type="text/html"
-          src="https://www.youtube.com/embed/BOk3SXmzC8c?autoplay=1&mute=1"
+          src="https://www.youtube.com/embed/59ncghqMj20?autoplay=1&mute=1"
           frameborder="0"
           allow="autoplay"
           allowfullscreen="1" />
       </div>
-
-      <!-- <div class="offline-container">
-        <span class="offline">(currently offline)</span>
-      </div> -->
     </div>
 
     <div class="stream">
@@ -175,19 +171,6 @@
           title="South LA Field Mission"
           type="text/html"
           src="https://www.youtube.com/embed/rYqR6PtVaOw?autoplay=1&mute=1"
-          frameborder="0"
-          allow="autoplay"
-          allowfullscreen="1" />
-      </div>
-    </div>
-
-    <div class="stream">
-      <h3>The Weather Channel</h3>
-      <div class="embed-container">
-        <iframe
-          title="The Weather Channel"
-          type="text/html"
-          src="https://www.youtube.com/embed/59ncghqMj20?autoplay=1&mute=1"
           frameborder="0"
           allow="autoplay"
           allowfullscreen="1" />
@@ -309,6 +292,23 @@
           allow="autoplay"
           allowfullscreen="1" />
       </div> -->
+      <div class="offline-container">
+        <span class="offline">(currently offline)</span>
+      </div>
+    </div>
+
+    <div class="stream">
+      <h3>Lake Charles, LA (svrweather)</h3>
+      <!-- <div class="embed-container">
+        <iframe
+          title="Lake Charles, LA (svrweather)"
+          type="text/html"
+          src="https://www.youtube.com/embed/BOk3SXmzC8c?autoplay=1&mute=1"
+          frameborder="0"
+          allow="autoplay"
+          allowfullscreen="1" />
+      </div> -->
+
       <div class="offline-container">
         <span class="offline">(currently offline)</span>
       </div>
