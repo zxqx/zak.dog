@@ -150,6 +150,23 @@
   <div class="streams">
 
     <div class="stream">
+      <h3>Lake Charles, LA (svrweather)</h3>
+      <div class="embed-container">
+        <iframe
+          title="Lake Charles, LA (svrweather)"
+          type="text/html"
+          src="https://www.youtube.com/embed/ym7PJnJQVBc?autoplay=1&mute=1"
+          frameborder="0"
+          allow="autoplay"
+          allowfullscreen="1" />
+      </div>
+
+      <!-- <div class="offline-container">
+        <span class="offline">(currently offline)</span>
+      </div> -->
+    </div>
+
+    <div class="stream">
       <h3>Lake Charles, LA</h3>
       <div class="embed-container">
         <iframe
@@ -180,23 +197,6 @@
         <span class="offline">(currently offline)</span>
       </div>
     </div> -->
-
-    <!-- <div class="stream">
-      <h3>Lake Charles, LA (svrweather)</h3>
-      <div class="embed-container">
-        <iframe
-          title="Lake Charles, LA (svrweather)"
-          type="text/html"
-          src="https://www.youtube.com/embed/HCHCUXNRqPM?autoplay=1&mute=1"
-          frameborder="0"
-          allow="autoplay"
-          allowfullscreen="1" />
-      </div> -->
-
-    <!-- <div class="offline-container">
-        <span class="offline">(currently offline)</span>
-      </div> -->
-    <!-- </div> -->
 
     <div class="stream">
       <h3>LA Field Mission</h3>
@@ -299,7 +299,7 @@
       </div>
     </div> -->
 
-    <div class="stream">
+    <!-- <div class="stream">
       <h3>New Orleans, LA</h3>
       <div class="embed-container">
         <iframe
@@ -310,7 +310,7 @@
           allow="autoplay"
           allowfullscreen="1" />
       </div>
-    </div>
+    </div> -->
 
     <!-- <div class="stream">
       <h3>Houston, TX</h3>
