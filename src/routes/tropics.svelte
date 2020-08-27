@@ -38,7 +38,7 @@
     padding-bottom: 56.25%;
     height: 0;
     overflow: hidden;
-    max-width: calc(100% - 1em);
+    max-width: 100%;
   }
 
   .embed-container iframe,
@@ -120,6 +120,10 @@
 
     .streams {
       width: 60%;
+    }
+
+    .embed-container {
+      max-width: calc(100% - 1em);
     }
   }
 
