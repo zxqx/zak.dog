@@ -209,7 +209,7 @@
     </div>
 
     <div class="stream">
-      <h3>South LA Field Mission</h3>
+      <h3>LA Field Mission</h3>
       <div class="embed-container">
         <iframe
           title="South LA Field Mission"
