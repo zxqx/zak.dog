@@ -206,19 +206,6 @@
     </div>
 
     <div class="stream">
-      <h3>Coastal TX/LA</h3>
-      <div class="embed-container">
-        <iframe
-          title="Coastal TX/LA"
-          type="text/html"
-          src="https://www.youtube.com/embed/NPUC0vjYja0?autoplay=1&mute=1"
-          frameborder="0"
-          allow="autoplay"
-          allowfullscreen="1" />
-      </div>
-    </div>
-
-    <div class="stream">
       <h3>Lafayette, LA</h3>
       <div class="embed-container">
         <iframe
@@ -228,6 +215,7 @@
       </div>
     </div>
 
+
     <div class="stream">
       <h3>Kemah, TX</h3>
       <div class="embed-container">
@@ -235,6 +223,20 @@
           title="Kemah, TX"
           type="text/html"
           src="https://www.youtube.com/embed/4s8z0prt-FU?autoplay=1&mute=1"
+          frameborder="0"
+          allow="autoplay"
+          allowfullscreen="1" />
+      </div>
+    </div>
+
+
+    <div class="stream">
+      <h3>Coastal TX/LA</h3>
+      <div class="embed-container">
+        <iframe
+          title="Coastal TX/LA"
+          type="text/html"
+          src="https://www.youtube.com/embed/NPUC0vjYja0?autoplay=1&mute=1"
           frameborder="0"
           allow="autoplay"
           allowfullscreen="1" />
