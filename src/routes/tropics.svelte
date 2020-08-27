@@ -165,6 +165,21 @@
     </div> -->
 
     <div class="stream">
+      <h3>Lake Charles, LA (Reed Timmer)</h3>
+      <div class="embed-container">
+        <div
+          class="fb-video"
+          data-href="https://www.facebook.com/reedtimmer2.0/videos/3238059929618475/"
+          data-show-text="false"
+          data-width="">
+          <blockquote
+            cite="https://developers.facebook.com/reedtimmer2.0/videos/3238059929618475/"
+            class="fb-xfbml-parse-ignore" />
+        </div>
+      </div>
+    </div>
+
+    <div class="stream">
       <h3>South LA Field Mission</h3>
       <div class="embed-container">
         <iframe
@@ -249,7 +264,7 @@
       </div>
     </div> -->
 
-    <div class="stream">
+    <!-- <div class="stream">
       <h3>Houston, TX</h3>
       <div class="embed-container">
         <iframe
@@ -260,7 +275,7 @@
           allow="autoplay"
           allowfullscreen="1" />
       </div>
-    </div>
+    </div> -->
   </div>
 
   <div class="tropical-twitter">
