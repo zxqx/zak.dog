@@ -163,6 +163,22 @@
     </div> -->
 
     <div class="stream">
+      <h3>Lake Charles, LA (Jeff Piotrowski)</h3>
+      <div class="embed-container">
+        <iframe
+          title="Lake Charles, LA"
+          type="text/html"
+          src="https://www.youtube.com/embed/b90yXttc4Jc?autoplay=1&mute=1"
+          frameborder="0"
+          allow="autoplay"
+          allowfullscreen="1" />
+      </div>
+      <!-- <div class="offline-container">
+        <span class="offline">(currently offline)</span>
+      </div> -->
+    </div>
+
+    <div class="stream">
       <h3>Lake Charles, LA (svrweather)</h3>
       <div class="embed-container">
         <iframe
@@ -215,7 +231,6 @@
       </div>
     </div>
 
-
     <div class="stream">
       <h3>Kemah, TX</h3>
       <div class="embed-container">
@@ -228,7 +243,6 @@
           allowfullscreen="1" />
       </div>
     </div>
-
 
     <div class="stream">
       <h3>Coastal TX/LA</h3>
@@ -292,9 +306,9 @@
       </div>
     </div> -->
 
-    <div class="stream">
+    <!-- <div class="stream">
       <h3>Lake Charles, LA (Reed Timmer)</h3>
-      <!-- <div class="embed-container">
+      <div class="embed-container">
         <div
           class="fb-video"
           data-href="https://www.facebook.com/reedtimmer2.0/videos/3238059929618475/"
@@ -304,28 +318,13 @@
             cite="https://developers.facebook.com/reedtimmer2.0/videos/3238059929618475/"
             class="fb-xfbml-parse-ignore" />
         </div>
-      </div> -->
+      </div>
 
       <div class="offline-container">
         <span class="offline">(currently offline)</span>
       </div>
-    </div>
-
-    <!-- <div class="stream">
-      <h3>Lake Charles, LA (Jeff Piotrowski)</h3> -->
-    <!-- <div class="embed-container">
-        <iframe
-          title="Lake Charles, LA"
-          type="text/html"
-          src="https://www.youtube.com/embed/_3L4yAYlSDY?autoplay=1&mute=1"
-          frameborder="0"
-          allow="autoplay"
-          allowfullscreen="1" />
-      </div> -->
-    <!-- <div class="offline-container">
-        <span class="offline">(currently offline)</span>
-      </div>
     </div> -->
+
   </div>
 
   <div class="tropical-twitter">
