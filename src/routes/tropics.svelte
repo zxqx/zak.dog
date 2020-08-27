@@ -202,9 +202,9 @@
       <h3>LA Field Mission</h3>
       <div class="embed-container">
         <iframe
-          title="South LA Field Mission"
+          title="LA Field Mission"
           type="text/html"
-          src="https://www.youtube.com/embed/rYqR6PtVaOw?autoplay=1&mute=1"
+          src="https://www.youtube.com/embed/ItsuEEHEBFQ?autoplay=1&mute=1"
           frameborder="0"
           allow="autoplay"
           allowfullscreen="1" />
