@@ -164,7 +164,7 @@
 
     <div class="stream">
       <h3>Lake Charles, LA (Reed Timmer)</h3>
-      <div class="embed-container">
+      <!-- <div class="embed-container">
         <div
           class="fb-video"
           data-href="https://www.facebook.com/reedtimmer2.0/videos/781698219263177/"
@@ -174,11 +174,11 @@
             cite="https://developers.facebook.com/reedtimmer2.0/videos/781698219263177/"
             class="fb-xfbml-parse-ignore" />
         </div>
-      </div>
-
-      <!-- <div class="offline-container">
-        <span class="offline">(currently offline)</span>
       </div> -->
+
+      <div class="offline-container">
+        <span class="offline">(currently offline)</span>
+      </div>
     </div>
 
     <div class="stream">
