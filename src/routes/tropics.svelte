@@ -170,7 +170,7 @@
         <iframe
           title="South LA Field Mission"
           type="text/html"
-          src="https://www.youtube.com/embed/KP1Ee4F7q-o?autoplay=1&mute=1"
+          src="https://www.youtube.com/embed/rYqR6PtVaOw?autoplay=1&mute=1"
           frameborder="0"
           allow="autoplay"
           allowfullscreen="1" />
