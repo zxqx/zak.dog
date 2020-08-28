@@ -16,6 +16,15 @@
     flex-direction: column;
   }
 
+  .out-of-storm-mode {
+    display: flex;
+    width: 100%;
+    height: calc(100vh - 7em);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
   h3 {
     margin-bottom: 0.5em;
     text-align: center;
@@ -147,194 +156,7 @@
 </svelte:head>
 
 <div class="page">
-  <div class="streams">
-
-    <!-- <div class="stream">
-      <h3>Lake Charles, LA (svrweather)</h3>
-      <div class="embed-container">
-        <iframe
-          title="Lake Charles, LA (svrweather)"
-          type="text/html"
-          src="https://www.youtube.com/embed/ym7PJnJQVBc?autoplay=1&mute=1"
-          frameborder="0"
-          allow="autoplay"
-          allowfullscreen="1" />
-      </div> -->
-
-    <!-- <div class="offline-container">
-        <span class="offline">(currently offline)</span>
-      </div> -->
-    <!-- </div> -->
-
-    <div class="stream">
-      <h3>KATC</h3>
-      <div class="embed-container">
-        <iframe
-          title="KATC"
-          type="text/html"
-          src="https://www.youtube.com/embed/Cvief7DX450?autoplay=1&mute=1"
-          frameborder="0"
-          allow="autoplay"
-          allowfullscreen="1" />
-      </div>
-    </div>
-
-    <!-- <div class="stream">
-      <h3>Lake Charles, LA (Reed Timmer)</h3>
-      <div class="embed-container">
-        <div
-          class="fb-video"
-          data-href="https://www.facebook.com/reedtimmer2.0/videos/781698219263177/"
-          data-show-text="false"
-          data-width="">
-          <blockquote
-            cite="https://developers.facebook.com/reedtimmer2.0/videos/781698219263177/"
-            class="fb-xfbml-parse-ignore" />
-        </div>
-      </div>
-
-      <div class="offline-container">
-        <span class="offline">(currently offline)</span>
-      </div>
-    </div> -->
-
-    <div class="stream">
-      <h3>LA Field Mission</h3>
-      <div class="embed-container">
-        <iframe
-          title="LA Field Mission"
-          type="text/html"
-          src="https://www.youtube.com/embed/ItsuEEHEBFQ?autoplay=1&mute=1"
-          frameborder="0"
-          allow="autoplay"
-          allowfullscreen="1" />
-      </div>
-    </div>
-
-    <div class="stream">
-      <h3>The Weather Channel</h3>
-      <div class="embed-container">
-        <iframe
-          title="The Weather Channel"
-          type="text/html"
-          src="https://www.youtube.com/embed/59ncghqMj20?autoplay=1&mute=1"
-          frameborder="0"
-          allow="autoplay"
-          allowfullscreen="1" />
-      </div>
-    </div>
-
-    <!-- <div class="stream">
-      <h3>Lafayette, LA</h3>
-      <div class="embed-container">
-        <iframe
-          src="https://player.twitch.tv/?channel=not_a_bot100&parent=zak.dog&parent=localhost"
-          frameborder="0"
-          allowfullscreen="1" />
-      </div>
-    </div> -->
-
-    <div class="stream">
-      <h3>Kemah, TX</h3>
-      <div class="embed-container">
-        <iframe
-          title="Kemah, TX"
-          type="text/html"
-          src="https://www.youtube.com/embed/4s8z0prt-FU?autoplay=1&mute=1"
-          frameborder="0"
-          allow="autoplay"
-          allowfullscreen="1" />
-      </div>
-    </div>
-
-    <!-- <div class="stream">
-      <h3>Coastal TX/LA</h3>
-      <div class="embed-container">
-        <iframe
-          title="Coastal TX/LA"
-          type="text/html"
-          src="https://www.youtube.com/embed/NPUC0vjYja0?autoplay=1&mute=1"
-          frameborder="0"
-          allow="autoplay"
-          allowfullscreen="1" />
-      </div>
-    </div> -->
-
-    <!-- <div class="stream">
-      <h3>Lake Charles, LA</h3>
-      <div class="embed-container">
-        <iframe
-          src="https://player.twitch.tv/?channel=mezmerial&parent=zak.dog&parent=localhost"
-          frameborder="0"
-          allowfullscreen="1" />
-      </div>
-    </div> -->
-
-    <!-- <div class="stream">
-      <h3>Galveston Beach, TX</h3>
-      <div class="embed-container">
-        <iframe
-          title="Galveston Beach, TX"
-          type="text/html"
-          src="https://www.youtube.com/embed/GEZy1rcNQWE?autoplay=1&mute=1"
-          frameborder="0"
-          allow="autoplay"
-          allowfullscreen="1" />
-      </div>
-    </div> -->
-
-    <!-- <div class="stream">
-      <h3>Lake Charles, LA (Jeff Piotrowski)</h3>
-      <div class="embed-container">
-        <iframe
-          title="Lake Charles, LA"
-          type="text/html"
-          src="https://www.youtube.com/embed/XWPBU1bl5mc?autoplay=1&mute=1"
-          frameborder="0"
-          allow="autoplay"
-          allowfullscreen="1" />
-      </div>
-      <div class="offline-container">
-        <span class="offline">(currently offline)</span>
-      </div>
-    </div> -->
-
-    <!-- <div class="stream">
-      <h3>New Orleans, LA</h3>
-      <div class="embed-container">
-        <iframe
-          title="New Orleans, LA"
-          type="text/html"
-          src="https://www.youtube.com/embed/W0WsQ6HSOAA?autoplay=1&mute=1"
-          frameborder="0"
-          allow="autoplay"
-          allowfullscreen="1" />
-      </div>
-    </div> -->
-
-    <!-- <div class="stream">
-      <h3>Houston, TX</h3>
-      <div class="embed-container">
-        <iframe
-          title="Houston"
-          type="text/html"
-          src="https://www.youtube.com/embed/ZuoL3P2dgmg?autoplay=1&mute=1"
-          frameborder="0"
-          allow="autoplay"
-          allowfullscreen="1" />
-      </div>
-    </div> -->
-
+  <div class="out-of-storm-mode">
+    <h1>We are currently out of storm mode.</h1>
   </div>
-
-  <div class="tropical-twitter">
-    <a
-      class="twitter-timeline"
-      href="https://twitter.com/wx_becks/lists/tropical-twitter?ref_src=twsrc%5Etfw" />
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
-
-    </script>
-  </div>
-
-  <iframe class="tropical-reddit" src="./tropical-reddit.html" />
 </div>
