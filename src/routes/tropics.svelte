@@ -152,7 +152,7 @@
 </style>
 
 <svelte:head>
-  <title>Storm Mode / zak.dog</title>
+  <title>zak.dog</title>
 </svelte:head>
 
 <div class="page">
