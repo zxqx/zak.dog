@@ -157,6 +157,6 @@
 
 <div class="page">
   <div class="out-of-storm-mode">
-    <h1>Visit <a href="https://storms.watch">storms.watch</a> for storm-related news and streams.</h1>
+    <h1>zak.dog</h1>
   </div>
 </div>
