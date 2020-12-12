@@ -12,7 +12,6 @@
       href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=block"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="style.css" />
 
     <title>zak.dog</title>
   </head>
