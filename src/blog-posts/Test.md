@@ -1,5 +1,5 @@
 ---
-slug: "/p/its-been-a-while"
+slug: "/p/6d1fbac3e06fef93"
 date: "2021-02-09"
 title: "It's been a while"
 tags: [anti-tech]

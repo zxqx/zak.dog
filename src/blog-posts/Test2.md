@@ -1,5 +1,5 @@
 ---
-slug: "/p/ringtone-jingle-my-swan-song"
+slug: "/p/cc287330ec773f4a"
 date: "2020-10-29"
 title: "Ringtone jingle my swan song"
 tags: [anti-tech]

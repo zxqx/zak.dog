@@ -1,5 +1,5 @@
 ---
-slug: "/p/day-1-with-a-dumbphone"
+slug: "/p/668dada8a495a3d4"
 date: "2020-10-26"
 title: "Day 1 with a dumbphone"
 tags: [anti-tech]

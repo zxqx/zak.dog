@@ -1,5 +1,5 @@
 ---
-slug: "/p/its-zak-season"
+slug: "/p/00bdc1223e1968e2"
 date: "2020-10-27"
 title: "It's Zak season"
 tags: [adventure]
