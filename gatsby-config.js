@@ -33,8 +33,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `zak.dog`,
+        short_name: `zak.dog`,
         start_url: `/`,
         background_color: `#0b0c1d`,
         theme_color: `#0b0c1d`,
