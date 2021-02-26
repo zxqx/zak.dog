@@ -43,6 +43,7 @@ const PostFooter = styled.div`
 
 const ListeningTo = styled.div`
   margin-bottom: 28px;
+  line-height: 24px;
 `;
 
 export const pageQuery = graphql`
