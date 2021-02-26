@@ -2,7 +2,7 @@
 slug: "/p/its-zak-season"
 date: "2020-10-27"
 title: "It's Zak season"
-tags: [anti-tech]
+tags: [adventure]
 listeningTo: "Minutemen - The Glory of Man"
 ---
 
