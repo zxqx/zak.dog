@@ -26,7 +26,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `markdown-pages`,
-        path: `${__dirname}/src/blog-posts`,
+        path: `${__dirname}/src/blog`,
       },
     },
     `gatsby-transformer-yaml`,
@@ -34,6 +34,19 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `./src/art/`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `./src/music/`,
+      },
+    },
+    `gatsby-transformer-yaml`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `./src/code/`,
       },
     },
     {
