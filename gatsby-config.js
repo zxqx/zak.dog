@@ -29,6 +29,10 @@ module.exports = {
         path: `${__dirname}/src/blog-posts`,
       },
     },
+    {
+      resolve: `gatsby-plugin-styled-components`,
+      options: {},
+    },
     `gatsby-transformer-remark`,
     {
       resolve: `gatsby-plugin-manifest`,
