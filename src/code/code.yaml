@@ -4,3 +4,6 @@
 - title: 'bip39.xyz'
   image: '../images/code/bip39xyz.png'
   url: 'https://bip39.xyz'
+- title: 'use-axios-client'
+  image: '../images/code/use-axios-client.png'
+  url: 'https://use-axios-client.io'

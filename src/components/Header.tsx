@@ -13,6 +13,10 @@ const Container = styled.header`
   margin: 0 auto;
   padding: 64px 20px 80px;
   max-width: 960px;
+
+  @media (max-width: 540px) {
+    flex-direction: column;
+  }
 `;
 
 const Logo = styled(Link)`
@@ -26,6 +30,11 @@ const Logo = styled(Link)`
 
 const Nav = styled.nav`
   margin: 10px 0 0 100px;
+
+  @media (max-width: 540px) {
+    margin: 40px 0 0 0;
+    font-size: 18px;
+  }
 `;
 
 const NavItem = styled(Link)`

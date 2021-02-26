@@ -8,6 +8,7 @@ import { Animated } from '../components/Animated';
 const Container = styled.div`
   margin-bottom: 50px;
   padding-bottom: 20px;
+  margin-right: 20px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 `;
 
