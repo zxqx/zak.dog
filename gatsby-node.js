@@ -4,6 +4,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     `./src/templates/BlogPostTemplate.tsx`
   );
   const tagsTemplate = require.resolve('./src/templates/TagsTemplate.tsx');
+  const artTemplate = require.resolve(`./src/templates/ArtTemplate.tsx`);
 
   const result = await graphql(`
     {
@@ -22,6 +23,17 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       tagsGroup: allMarkdownRemark(limit: 2000) {
         group(field: frontmatter___tags) {
           fieldValue
+        }
+      }
+      allArtYaml {
+        edges {
+          node {
+            cid
+            title
+            image {
+              publicURL
+            }
+          }
         }
       }
     }
@@ -47,6 +59,16 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       component: tagsTemplate,
       context: {
         tag: tag.fieldValue,
+      },
+    });
+  });
+
+  result.data.allArtYaml.edges.forEach(({ node }) => {
+    createPage({
+      path: `/art/${node.cid}`,
+      component: artTemplate,
+      context: {
+        cid: node.cid,
       },
     });
   });

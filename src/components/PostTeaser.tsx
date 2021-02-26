@@ -22,12 +22,12 @@ export const PostTeaser = styled(Link)`
   }
 `;
 
-export const PostTeaserContent = styled.div`
+export const PostTeaserContent = styled.div<{ height?: number }>`
   display: flex;
   flex-direction: column;
   margin-right: 50px;
   padding-bottom: 25px;
-  height: 330px;
+  height: ${({ height }) => (height ? `${height}px` : 'auto')};
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 
   @media (max-width: 1024px) {

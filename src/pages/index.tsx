@@ -44,7 +44,7 @@ const IndexPage = () => {
         <PostTeasers>
           {edges.map(edge => (
             <PostTeaser to={edge.node.frontmatter.slug}>
-              <PostTeaserContent>
+              <PostTeaserContent height={330}>
                 <PostTeaserHeading>
                   {edge.node.frontmatter.title}
                 </PostTeaserHeading>

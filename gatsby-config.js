@@ -29,6 +29,13 @@ module.exports = {
         path: `${__dirname}/src/blog-posts`,
       },
     },
+    `gatsby-transformer-yaml`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `./src/art/`,
+      },
+    },
     {
       resolve: `gatsby-plugin-styled-components`,
       options: {},
