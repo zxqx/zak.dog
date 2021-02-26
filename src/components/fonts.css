@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'iA Writer Mono';
+  src: url('../fonts/iAWriterMonoS-Regular.woff2') format('woff2'),
+    url('../fonts/iAWriterMonoS-Regular.woff') format('woff'),
+    url('../fonts/iAWriterMonoS-Regular.eot') format('eot');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'iA Writer Mono';
+  src: url('../fonts/iAWriterMonoS-Bold.woff2') format('woff2'),
+    url('../fonts/iAWriterMonoS-Bold.woff') format('woff'),
+    url('../fonts/iAWriterMonoS-Bold.eot') format('eot');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'iA Writer Mono';
+  src: url('../fonts/iAWriterMonoS-Italic.woff2') format('woff2'),
+    url('../fonts/iAWriterMonoS-Italic.woff') format('woff'),
+    url('../fonts/iAWriterMonoS-Italic.eot') format('eot');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'iA Writer Mono';
+  src: url('../fonts/iAWriterMonoS-BoldItalic.woff2') format('woff2'),
+    url('../fonts/iAWriterMonoS-BoldItalic.woff') format('woff'),
+    url('../fonts/iAWriterMonoS-BoldItalic.eot') format('eot');
+  font-weight: 600;
+  font-style: italic;
+}

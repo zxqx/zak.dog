@@ -1,0 +1,53 @@
+{
+  "name": "zak.dog",
+  "private": true,
+  "description": "The most radical web page on the internet.",
+  "version": "0.1.0",
+  "author": "zak",
+  "dependencies": {
+    "gatsby": "^2.32.8",
+    "gatsby-image": "^2.11.0",
+    "gatsby-plugin-gatsby-cloud": "^1.0.2",
+    "gatsby-plugin-manifest": "^2.12.1",
+    "gatsby-plugin-offline": "^3.10.2",
+    "gatsby-plugin-react-helmet": "^3.10.0",
+    "gatsby-plugin-sharp": "^2.14.3",
+    "gatsby-source-filesystem": "^2.11.1",
+    "gatsby-transformer-sharp": "^2.12.0",
+    "gsap": "^3.6.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^6.1.0",
+    "react-spring": "^8.0.27",
+    "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/react-helmet": "^6.1.0",
+    "@types/styled-components": "^5.1.7",
+    "gatsby-transformer-remark": "^2.16.1",
+    "polished": "^4.1.1",
+    "prettier": "2.2.1",
+    "typescript": "^4.2.2"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "0BSD",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "yarn develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}
