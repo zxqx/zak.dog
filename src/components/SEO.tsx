@@ -46,7 +46,7 @@ export const SEO = ({
         },
         {
           property: `og:title`,
-          content: title,
+          content: `${title} // ${defaultTitle}`,
         },
         {
           property: `og:description`,
@@ -66,7 +66,7 @@ export const SEO = ({
         },
         {
           name: `twitter:title`,
-          content: title,
+          content: `${title} // ${defaultTitle}`,
         },
         {
           name: `twitter:description`,
