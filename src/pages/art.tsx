@@ -1,5 +1,7 @@
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
+import Img from 'gatsby-image';
+import styled from 'styled-components';
 import { Layout } from '../components/Layout';
 import { SEO } from '../components/SEO';
 import { Animated } from '../components/Animated';
@@ -10,6 +12,10 @@ import {
   PostTeaserHeading,
 } from '../components/PostTeaser';
 
+const Image = styled(Img)`
+  margin-bottom: 20px;
+`;
+
 const ArtPage = () => {
   const data = useStaticQuery(graphql`
     query {
@@ -19,7 +25,11 @@ const ArtPage = () => {
             cid
             title
             image {
-              publicURL
+              childImageSharp {
+                fluid(maxWidth: 400) {
+                  ...GatsbyImageSharpFluid_tracedSVG
+                }
+              }
             }
           }
         }
@@ -37,7 +47,10 @@ const ArtPage = () => {
           {edges.map(edge => (
             <PostTeaser key={edge.node.cid} to={`/art/${edge.node.cid}`}>
               <PostTeaserContent>
-                <img src={edge.node.image.publicURL} alt={edge.node.title} />
+                <Image
+                  fluid={edge.node.image.childImageSharp.fluid}
+                  alt={edge.node.title}
+                />
                 <PostTeaserHeading>{edge.node.title}</PostTeaserHeading>
               </PostTeaserContent>
             </PostTeaser>

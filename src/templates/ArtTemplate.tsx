@@ -1,5 +1,6 @@
 import React from 'react';
 import { graphql } from 'gatsby';
+import Img from 'gatsby-image';
 import styled from 'styled-components';
 import { Layout } from '../components/Layout';
 import { SEO } from '../components/SEO';
@@ -12,13 +13,21 @@ const Container = styled.div`
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 `;
 
+const Image = styled(Img)`
+  margin-bottom: 30px;
+`;
+
 export const pageQuery = graphql`
   query($cid: String!) {
     artYaml(cid: { eq: $cid }) {
       cid
       title
       image {
-        publicURL
+        childImageSharp {
+          fluid(maxWidth: 900) {
+            ...GatsbyImageSharpFluid_tracedSVG
+          }
+        }
       }
     }
   }
@@ -33,7 +42,7 @@ const Template = ({ data }) => {
       <SEO title={title} />
       <Animated>
         <Container>
-          <img src={image.publicURL} alt={title} />
+          <Image fluid={image.childImageSharp.fluid} alt={title} />
 
           <h1>{title}</h1>
         </Container>
