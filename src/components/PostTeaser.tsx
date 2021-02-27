@@ -32,7 +32,7 @@ export const PostTeaserContent = styled.div<{ height?: number }>`
 
   @media (max-width: 1024px) {
     margin-bottom: 20px;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
     height: auto;
   }
 
