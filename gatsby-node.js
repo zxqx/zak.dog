@@ -4,6 +4,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     `./src/templates/BlogPostTemplate.tsx`
   );
   const tagsTemplate = require.resolve('./src/templates/TagsTemplate.tsx');
+  const musicTemplate = require.resolve(`./src/templates/MusicTemplate.tsx`);
   const artTemplate = require.resolve(`./src/templates/ArtTemplate.tsx`);
 
   const result = await graphql(`
@@ -23,6 +24,15 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       tagsGroup: allMarkdownRemark(limit: 2000) {
         group(field: frontmatter___tags) {
           fieldValue
+        }
+      }
+      allMusicYaml {
+        edges {
+          node {
+            cid
+            title
+            slug
+          }
         }
       }
       allArtYaml {
@@ -59,6 +69,16 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       component: tagsTemplate,
       context: {
         tag: tag.fieldValue,
+      },
+    });
+  });
+
+  result.data.allMusicYaml.edges.forEach(({ node }) => {
+    createPage({
+      path: `/music/${node.slug}`,
+      component: musicTemplate,
+      context: {
+        slug: node.slug,
       },
     });
   });

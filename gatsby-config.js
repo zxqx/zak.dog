@@ -29,17 +29,16 @@ module.exports = {
         path: `${__dirname}/src/blog`,
       },
     },
-    `gatsby-transformer-yaml`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `./src/art/`,
+        path: `./src/music/`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `./src/music/`,
+        path: `./src/art/`,
       },
     },
     `gatsby-transformer-yaml`,
