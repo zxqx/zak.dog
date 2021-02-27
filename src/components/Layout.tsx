@@ -5,7 +5,7 @@ import { lighten } from 'polished';
 import { GlobalStyle } from './GlobalStyle';
 import { Header } from './Header';
 import { colors } from '../constants/colors';
-import curl from '../images/curls.png';
+import curls from '../images/curls.png';
 import './fonts.css';
 
 interface Props {
@@ -15,13 +15,13 @@ interface Props {
 
 const Root = styled.div`
   min-height: 100vh;
-  background: url('${curl}');
+  background: url('${curls}');
 `;
 
 const Container = styled.div`
   padding-left: 80px;
   min-height: 100vh;
-  background: radial-gradient(rgba(11, 12, 29, 0.6) 0%, ${colors.primary} 50%)
+  background: radial-gradient(rgba(11, 12, 29, 0.45) 0%, ${colors.primary} 50%)
     340px -200px;
   color: ${lighten(0.83, colors.primary)};
 
