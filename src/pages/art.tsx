@@ -27,7 +27,7 @@ const ArtPage = () => {
             image {
               childImageSharp {
                 fluid(maxWidth: 400) {
-                  ...GatsbyImageSharpFluid_tracedSVG
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
