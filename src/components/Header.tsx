@@ -65,7 +65,6 @@ export const Header = ({ siteTitle }: Props) => (
       <NavItem to="/">blog</NavItem>
       <NavItem to="/music">music</NavItem>
       <NavItem to="/art">art</NavItem>
-      <NavItem to="/code">code</NavItem>
     </Nav>
   </Container>
 );
