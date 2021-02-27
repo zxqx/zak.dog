@@ -21,7 +21,7 @@ const Root = styled.div`
 const Container = styled.div`
   padding-left: 80px;
   min-height: 100vh;
-  background: radial-gradient(rgba(11, 12, 29, 0.45) 0%, ${colors.primary} 50%)
+  background: radial-gradient(rgba(11, 12, 29, 0.55) 0%, ${colors.primary} 50%)
     340px -200px;
   color: ${lighten(0.83, colors.primary)};
 
