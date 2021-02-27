@@ -1,17 +1,19 @@
 ---
-slug: "/p/00bdc1223e1968e2"
-date: "2020-10-27"
-title: "It's Zak season"
-tags: [adventure]
-listeningTo: "Minutemen - The Glory of Man"
+slug: "/p/668dada8a495a3d4"
+date: "2020-10-26"
+title: "Day 1 with a dumbphone"
+tags: [anti-tech]
+listeningTo: "Les Rallizes Dénudés - Fallin' Love With"
 ---
 
-There's nothing better than jacket weather — the cold makes me feel alive. Last night I got the best sleep I've gotten in months. I almost forgot what it feels like to operate on sufficient rest.
+Several times throughout the day, without a second thought, I picked up my new flip phone and just stared blankly into it. Almost like I was expecting something to happen. Peering fervently into an empty well, waiting for it to quench my thirst.
 
-Skipped my afternoon meetings to grab some last minute Halloween costume supplies. Still gotta put the finishing touches on it tomorrow, but it's coming together.
+No endlessly refreshable content feeds.
 
-Picked up Boosh after work and went to REI to get a few things for the camping trip this weekend. The REI dude kept trying to upsell Boosh on various utensils and offensively turquoise dinnerware. He succumbed initially but after taking an abridged version of the Zak Masterclass on Resisting and Rejecting the Capitalist REI Machine, he came to his senses and made a sane purchase in the end.
+No passive notifications to occupy and sedate my overactive mind.
 
-After dodging the money-hungry co-op vultures, we stopped at a steakhouse down the street to flex on local passerbys. We capped off the night with a chilly 3-mile walk around campus and a hot jasmine green tea, presumably laced with 6 pounds of Imperial Sugar.
+Just my own thoughts and a hunk of primitive technology that offers nothing more than a mirror into my own anxiety.
 
-Beanie gang assemble.
+It seems only logical that the first day of a challenge like this would be the toughest, but I have a feeling it will only get more difficult from here. These first few weeks are just a honeymoon. When the novelty wears off, the real challenge begins.
+
+Until then, I'm taking it a day at a time.
