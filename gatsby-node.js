@@ -65,7 +65,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
   result.data.allArtYaml.edges.forEach(({ node }) => {
     createPage({
-      path: `/a/${node.cid}`,
+      path: `/art/${node.cid}`,
       component: artTemplate,
       context: {
         cid: node.cid,

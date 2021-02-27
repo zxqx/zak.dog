@@ -45,7 +45,7 @@ const ArtPage = () => {
       <Animated>
         <PostTeasers>
           {edges.map(edge => (
-            <PostTeaser key={edge.node.cid} to={`/a/${edge.node.cid}`}>
+            <PostTeaser key={edge.node.cid} to={`/art/${edge.node.cid}`}>
               <PostTeaserContent>
                 <Image
                   fluid={edge.node.image.childImageSharp.fluid}
