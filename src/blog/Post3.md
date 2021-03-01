@@ -1,5 +1,5 @@
 ---
-slug: "blog/2021-02-09/dumbphone-challenge-complete"
+slug: "/blog/2021-02-09/dumbphone-challenge-complete"
 date: "2021-02-09"
 title: "Dumbphone challenge complete"
 tags: [anti-tech]

@@ -1,5 +1,5 @@
 ---
-slug: "blog/2021-03-01/rip-the-constructive-pessimist"
+slug: "/blog/2021-03-01/rip-the-constructive-pessimist"
 date: "2021-03-01"
 title: "RIP: The constructive pessimist"
 tags: ["self-discovery"]
