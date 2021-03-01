@@ -49,11 +49,14 @@ const IndexPage = () => {
                   {edge.node.frontmatter.title}
                 </PostTeaserHeading>
                 <Paragraph>
-                  {edge.node.internal.content.slice(
-                    0,
-                    edge.node.frontmatter.title.length > 25 ? 190 : 210
-                  )}
-                  ...
+                  {edge.node.internal.content
+                    .replace(/\*/g, '')
+                    .replace(/_/g, '')
+                    .slice(
+                      0,
+                      edge.node.frontmatter.title.length > 25 ? 190 : 210
+                    )}
+                  <span>...</span>
                 </Paragraph>
 
                 <PostTeaserTags>

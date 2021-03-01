@@ -38,7 +38,7 @@ export const SEO = ({
         lang,
       }}
       title={title}
-      titleTemplate={`%s // ${defaultTitle}`}
+      titleTemplate={`%s / ${defaultTitle}`}
       meta={[
         {
           name: `description`,
@@ -46,7 +46,7 @@ export const SEO = ({
         },
         {
           property: `og:title`,
-          content: `${title} // ${defaultTitle}`,
+          content: `${title} / ${defaultTitle}`,
         },
         {
           property: `og:description`,
