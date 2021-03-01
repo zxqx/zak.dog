@@ -54,7 +54,7 @@ const IndexPage = () => {
                     .replace(/_/g, '')
                     .slice(
                       0,
-                      edge.node.frontmatter.title.length > 25 ? 190 : 210
+                      edge.node.frontmatter.title.length > 25 ? 186 : 210
                     )}
                   <span>...</span>
                 </Paragraph>
