@@ -39,7 +39,7 @@ const IndexPage = () => {
 
   return (
     <Layout>
-      <SEO title="Home" />
+      <SEO title="Blog" />
       <Animated>
         <PostTeasers>
           {edges.map(edge => (
