@@ -9,7 +9,7 @@ interface Props {
 }
 
 const Container = styled.span`
-  margin-right: 8px;
+  margin-right: 12px;
   padding: 4px 12px;
   font-size: 14px;
   font-weight: 600;
