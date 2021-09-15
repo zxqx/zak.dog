@@ -69,7 +69,7 @@ const MusicPage = () => {
             <PostTeaser key={edge.node.cid} to={null}>
               <PostTeaserContent>
                 <Iframe
-                  src={`https://audius.co/embed/track?id=${edge.node.cid}&ownerId=102097&flavor=card`}
+                  src={`https://audius.co/embed/track/${edge.node.cid}?flavor=card`}
                   allow="encrypted-media"
                 ></Iframe>
               </PostTeaserContent>

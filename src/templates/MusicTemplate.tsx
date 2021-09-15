@@ -49,13 +49,16 @@ const Template = ({ data }) => {
   const { musicYaml } = data;
   const { title, cid } = musicYaml;
 
+  console.log('test');
+  console.log(cid);
+
   return (
     <Layout>
       <SEO title={title} />
       <Animated>
         <Container>
           <Iframe
-            src={`https://audius.co/embed/track?id=${cid}&ownerId=102097&flavor=card`}
+            src={`https://audius.co/embed/track/${cid}?flavor=card`}
             allow="encrypted-media"
           ></Iframe>
         </Container>
