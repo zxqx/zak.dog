@@ -53,6 +53,10 @@ export const SEO = ({
           content: metaDescription,
         },
         {
+          property: `og:image`,
+          content: `https://zak.dog/images/social-card.png`,
+        },
+        {
           property: `og:type`,
           content: `website`,
         },
@@ -71,6 +75,10 @@ export const SEO = ({
         {
           name: `twitter:description`,
           content: metaDescription,
+        },
+        {
+          property: `twitter:image`,
+          content: `https://zak.dog/images/social-card.png`,
         },
       ].concat(meta)}
     />

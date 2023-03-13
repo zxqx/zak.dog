@@ -21,7 +21,7 @@ const Container = styled.div`
 
   :before {
     position: absolute;
-    top: 30px;
+    top: 31px;
     left: -22px;
     content: '.';
     font-size: 70px;
