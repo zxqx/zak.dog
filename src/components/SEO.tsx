@@ -57,12 +57,24 @@ export const SEO = ({
           content: `https://zak.dog/images/social-card.png`,
         },
         {
+          property: `og:image:width`,
+          content: `1260`,
+        },
+        {
+          property: `og:image:height`,
+          content: `630`,
+        },
+        {
+          property: `og:image:type`,
+          content: `image/png`,
+        },
+        {
           property: `og:type`,
           content: `website`,
         },
         {
           name: `twitter:card`,
-          content: `summary`,
+          content: `summary_large_image`,
         },
         {
           name: `twitter:creator`,
