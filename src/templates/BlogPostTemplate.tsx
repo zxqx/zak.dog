@@ -70,7 +70,7 @@ const Template = ({ data }) => {
     <Layout>
       <SEO
         title={title}
-        description={html.replace(/(<([^>]+)>)/gi, '').replaceAll('\n', '')}
+        description={html.replace(/(<([^>]+)>)/gi, '').replace(/\n|\r/g, ' ')}
       />
       <Animated>
         <Container>
