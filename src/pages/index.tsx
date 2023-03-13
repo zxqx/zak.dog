@@ -43,7 +43,10 @@ const IndexPage = () => {
       <Animated>
         <PostTeasers>
           {edges.map(edge => (
-            <PostTeaser to={edge.node.frontmatter.slug}>
+            <PostTeaser
+              key={edge.node.frontmatter.slug}
+              to={edge.node.frontmatter.slug}
+            >
               <PostTeaserContent height={340}>
                 <PostTeaserHeading>
                   {edge.node.frontmatter.title}

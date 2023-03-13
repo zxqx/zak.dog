@@ -60,7 +60,7 @@ export const SEO = ({
         },
         {
           property: `og:image`,
-          content: `https://zak.dog/images/social-card.png`,
+          content: `https://zak.dog/images/social-card-4.png`,
         },
         {
           property: `og:image:width`,
@@ -96,7 +96,7 @@ export const SEO = ({
         },
         {
           property: `twitter:image`,
-          content: `https://zak.dog/images/social-card.png`,
+          content: `https://zak.dog/images/social-card-4.png`,
         },
       ].concat(meta)}
     />

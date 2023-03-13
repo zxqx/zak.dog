@@ -87,7 +87,9 @@ const Template = ({ data }) => {
             </ListeningTo>
 
             {tags.map((tag: string) => (
-              <Tag tag={tag}>{tag}</Tag>
+              <Tag tag={tag} key={tag}>
+                {tag}
+              </Tag>
             ))}
           </PostFooter>
         </Container>
