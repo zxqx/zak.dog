@@ -68,7 +68,10 @@ const Template = ({ data }) => {
 
   return (
     <Layout>
-      <SEO title={title} />
+      <SEO
+        title={title}
+        description={html.replace(/(<([^>]+)>)/gi, '').replaceAll('\n', '')}
+      />
       <Animated>
         <Container>
           <PostHeader>

@@ -29,7 +29,8 @@ export const SEO = ({
     `
   );
 
-  const metaDescription = description || site.siteMetadata.description;
+  const metaDescription =
+    `${description.slice(0, 150)}...` || site.siteMetadata.description;
   const defaultTitle = site.siteMetadata?.title;
 
   return (
