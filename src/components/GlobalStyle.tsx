@@ -215,6 +215,7 @@ export const GlobalStyle = createGlobalStyle`
     box-sizing: inherit;
   }
   h2 {
+    margin-bottom: 30px;
     margin-left: 0;
     margin-right: 0;
     margin-top: 0;

@@ -42,6 +42,7 @@ export const PostTeaserContent = styled.div<{ height?: number }>`
 `;
 
 export const PostTeaserHeading = styled.h2`
+  margin-bottom: 22px;
   line-height: 36px;
 `;
 
